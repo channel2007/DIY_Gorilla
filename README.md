@@ -11,9 +11,10 @@
 
 # 線路圖
 * 接線圖
-![alt DonkeyKong](https://github.com/channel2007/DIY_DonkeyKong/blob/master/picture/circuitDiagram_1.jpg "DonkeyKong")
+* ![alt DonkeyKong](https://github.com/channel2007/DIY_DonkeyKong/blob/master/picture/circuitDiagram_1.jpg "DonkeyKong")
+
 * 接線說明
-![alt DonkeyKong](https://github.com/channel2007/DIY_DonkeyKong/blob/master/picture/circuitDiagram_2.jpg "DonkeyKong")
+* ![alt DonkeyKong](https://github.com/channel2007/DIY_DonkeyKong/blob/master/picture/circuitDiagram_2.jpg "DonkeyKong")
 
 # 安裝函數庫
 * [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
