@@ -10,7 +10,11 @@
 * 輕觸開關 輕觸按鍵 輕觸微動開關 6 x 6 高度 4.3mm  x 8
 
 # 線路圖
+* 接線圖
+* ![alt DonkeyKong](https://github.com/channel2007/DIY_DonkeyKong/blob/master/picture/circuitDiagram_1.jpg "DonkeyKong")
 
+* 接線說明
+* ![alt DonkeyKong](https://github.com/channel2007/DIY_DonkeyKong/blob/master/picture/circuitDiagram_2.jpg "DonkeyKong")
 
 # 安裝函數庫
 * [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
@@ -24,6 +28,17 @@
   * #define TFT_SCLK 18
 * [DS3231](https://github.com/NorthernWidget/DS3231)
 * [ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio)
+
+# 操作方法
+* 上下左右：移動
+* A：跳
+* GAME A：難度1
+* GAME B：難度2
+* TIME：顯示時間模式，遊戲中：音效開關
+
+# 密技
+* 按住GAME A+GAME B+TIME在按上：無敵開關
+* 按住GAME A+GAME B+TIME在按下：自動玩開關
 
 # 官方粉絲團
 [無限升級](https://www.facebook.com/unlimited.upgrade)
