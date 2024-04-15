@@ -29,5 +29,16 @@
 * [DS3231](https://github.com/NorthernWidget/DS3231)
 * [ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio)
 
+# 操作方法
+* 上下左右：移動
+* A：跳
+* GAME A：難度1
+* GAME B：難度2
+* TIME：顯示時間模式，遊戲中：音效開關
+
+# 密技
+* 按住GAME A+GAME B+TIME在按上：無敵開關
+* 按住GAME A+GAME B+TIME在按下：自動玩開關
+
 # 官方粉絲團
 [無限升級](https://www.facebook.com/unlimited.upgrade)
