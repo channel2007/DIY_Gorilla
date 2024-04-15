@@ -1,5 +1,8 @@
 # 前言
-  自製Game&Watch大金剛
+
+![alt DonkeyKong](https://github.com/channel2007/DIY_DonkeyKong/blob/master/picture/DIY_DonkeyKong.png "DonkeyKong")
+
+自製Game&Watch大金剛
 
 # 準備材料
 * Raspberry pi PICO雙核心RP2040  x 1
