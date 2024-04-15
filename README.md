@@ -10,7 +10,10 @@
 * 輕觸開關 輕觸按鍵 輕觸微動開關 6 x 6 高度 4.3mm  x 8
 
 # 線路圖
-
+* 接線圖
+![alt DonkeyKong](https://github.com/channel2007/DIY_DonkeyKong/blob/master/picture/circuitDiagram_1.jpg "DonkeyKong")
+* 接線說明
+![alt DonkeyKong](https://github.com/channel2007/DIY_DonkeyKong/blob/master/picture/circuitDiagram_2.jpg "DonkeyKong")
 
 # 安裝函數庫
 * [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
