@@ -1,7 +1,8 @@
+# 成品測試影片
+<a href="https://youtu.be/6KFh7SLxClU" target="_blank"><img src="https://github.com/channel2007/DIY_DonkeyKong/blob/master/picture/DIY_DonkeyKong.png" 
+alt="播放影片" width="640" height="480" border="10" /></a>
+
 # 前言
-
-![alt DonkeyKong](https://github.com/channel2007/DIY_DonkeyKong/blob/master/picture/DIY_DonkeyKong.png "DonkeyKong")
-
 自製Game&Watch大金剛
 
 # 準備材料
