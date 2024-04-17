@@ -2,6 +2,8 @@
 自製雙螢幕掌機與大猩猩遊戲
 
 # 成品測試影片
+<a href="https://youtu.be/efj0yF-jiOE" target="_blank"><img src="https://github.com/channel2007/DIY_Gorilla/blob/master/picture/diyGorilla_1.jpg" 
+alt="播放影片" width="640" height="480" border="10" /></a>
 
 # 準備材料
 * Raspberry pi PICO雙核心RP2040  x 1
